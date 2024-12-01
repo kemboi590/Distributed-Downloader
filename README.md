@@ -1,4 +1,4 @@
-# Simple Distributed System
+# Simple Distributed System (Class Assignmetnt 2024)
 
 This project demonstrates a simple distributed system with a server and a client. The server sends a file to the client upon request.
 
