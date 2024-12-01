@@ -42,6 +42,3 @@ This project demonstrates a simple distributed system with a server and a client
 - When a client connects, the server sends the specified file in chunks.
 - The client receives the file in chunks and writes it to the specified output file.
 
-## License
-
-This project is licensed under the MIT License.
